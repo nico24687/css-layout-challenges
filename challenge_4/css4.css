@@ -1,0 +1,17 @@
+.div1{
+  background-color: black;
+  height: 200px;
+  width: 200px;
+  color: white;
+  position: absolute;
+}
+
+.div2{
+  background-color: #3A3A3C;
+  height: 200px;
+  width: 200px;
+  color: white;
+  position: absolute;
+  left: 100;
+  top: 100;
+}
