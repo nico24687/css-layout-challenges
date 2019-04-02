@@ -1,0 +1,26 @@
+.div1 {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    color: white;
+    float: right;
+}
+
+.div2 {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    color: white;
+    margin: auto;
+    position: relative;
+    top: 100px;
+}
+
+.div3 {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    color: white;
+    margin-top: 100px;
+}
+

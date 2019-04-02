@@ -1,0 +1,30 @@
+
+
+.div1 {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    color: white;
+}
+
+
+.div2 {
+  background-color: black;
+  height: 100px;
+  width: 100px;
+  color: white;
+  display: inline-block;
+  float: right;
+}
+
+
+.div3 {
+  background-color: black;
+  height: 100px;
+  width: 100px;
+  color: white;
+  display: inline-block;
+  float: right;
+  margin-right: 20px;
+}
